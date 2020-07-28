@@ -1,4 +1,5 @@
 # PythonCodePractice
+
 # Legal Variable names
 myvar = "Jesse"
 my_var = "Jesse"
