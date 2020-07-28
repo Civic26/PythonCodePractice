@@ -3,10 +3,15 @@
 # Legal Variable names
 
 myvar = "Jesse"
+
 my_var = "Jesse"
+
 _My_Var = "Jesse"
+
 MyVar = "Jesse"
+
 MYVAR = " Jesse"
+
 myvar2 = "Jesse"
 
 print(MYVAR)
