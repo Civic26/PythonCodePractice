@@ -1,6 +1,7 @@
 # PythonCodePractice
 
 # Legal Variable names
+
 myvar = "Jesse"
 my_var = "Jesse"
 _My_Var = "Jesse"
@@ -24,6 +25,7 @@ print(type(c))
 
 a = float(i)
 print(a)
+
 b = int(f)
 print(b)
 
